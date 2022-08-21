@@ -46,7 +46,9 @@
 
 ## :dart: About ##
 
-Describe your project
+you can move the cursor over the screen and the eyes will stare at it. 
+
+This project use a function document.onmousemove to update position of the pair fo back divs inside the white parents divs producing the ilution that they are ayes that are staring directly to the cursor. 
 
 ## :sparkles: Features ##
 
