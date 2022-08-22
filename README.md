@@ -60,11 +60,9 @@ This project use a function document.onmousemove to update position of the pair 
 
 The following tools were used in this project:
 
-- [Expo](https://expo.io/)
-- [Node.js](https://nodejs.org/en/)
-- [React](https://pt-br.reactjs.org/)
-- [React Native](https://reactnative.dev/)
-- [TypeScript](https://www.typescriptlang.org/)
+- [HTML](https://developer.mozilla.org/es/docs/Web/HTML)
+- [CSS](https://developer.mozilla.org/es/docs/Web/CSS)
+- [JavaSript](https://developer.mozilla.org/es/docs/Web/JavaScript)
 
 ## :white_check_mark: Requirements ##
 
