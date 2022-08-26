@@ -50,12 +50,6 @@ you can move the cursor over the screen and the eyes will stare at it.
 
 This project use a function document.onmousemove to update position of the pair fo back divs inside the white parents divs producing the ilution that they are ayes that are staring directly to the cursor. 
 
-## :sparkles: Features ##
-
-:heavy_check_mark: Feature 1;\
-:heavy_check_mark: Feature 2;\
-:heavy_check_mark: Feature 3;
-
 ## :rocket: Technologies ##
 
 The following tools were used in this project:
@@ -85,6 +79,11 @@ $ yarn start
 
 # The server will initialize in the <http://localhost:3000>
 ```
+## :sparkles: Roadmap of future improvement ##
+
+:heavy_check_mark: I will add a background imgame, let just one eye and modify the white part of the eye, so it will be Mike Wazowski from Monsters Inc.;\
+:heavy_check_mark: I want to add a feature that you can change between different characters;
+
 
 ## :memo: License ##
 
